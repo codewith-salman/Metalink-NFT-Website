@@ -1,12 +1,6 @@
 <div id="top"></div>
 
-<br />
 <div align="center">
-
-<!-- 🔥 LOGO -->
-<img src="https://raw.githubusercontent.com/salman-webdevexp/assets/main/logo.png" alt="Metalink NFT Logo" width="120" />
-
-<br /><br />
 
 ## 🧬 Metalink – NFT Website  
 A futuristic, bold, and fully responsive **NFT & Blockchain Website UI** built using HTML, CSS, and JavaScript.  
