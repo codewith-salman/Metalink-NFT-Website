@@ -18,7 +18,7 @@
 <br />
 
 <!-- 🔰 PROJECT LOGO -->
-<img src="Metalink%20NFT%20Website/assets/images/desktop.png" alt="Metalink NFT Website Logo" width="120"/>
+<img src="Metalink%20NFT%20Website/assets/images/logo.svg" alt="Metalink NFT Website Logo" width="120"/>
 
 <br />
 <br />
