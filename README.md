@@ -21,7 +21,6 @@
 <img src="Metalink%20NFT%20Website/favicon.svg" alt="Metalink NFT Website Logo" width="80"/>
 
 <br />
-<br />
 
 <h1 align="center">🧬 Metalink – NFT Website</h1>
 
@@ -65,8 +64,6 @@ Ideal for:
 - Web3 landing pages  
 - Futuristic UI portfolio projects  
 
-<p align="right">(<a href="#top">back to top</a>)</p>
-
 ---
 
 ## ✨ Features
@@ -79,8 +76,6 @@ Ideal for:
 - Clean typography and spacing  
 - Easy customization for different NFT projects  
 
-<p align="right">(<a href="#top">back to top</a>)</p>
-
 ---
 
 ## 🛠️ Built With
@@ -88,8 +83,6 @@ Ideal for:
 - **HTML5**  
 - **CSS3**  
 - **JavaScript (Vanilla)**  
-
-<p align="right">(<a href="#top">back to top</a>)</p>
 
 ---
 
