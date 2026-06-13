@@ -61,8 +61,7 @@ Ideal for:
 - NFT marketplaces  
 - Crypto and blockchain platforms  
 - Digital art galleries  
-- Web3 landing pages  
-- Futuristic UI portfolio projects  
+- Web3 landing pages 
 
 ---
 
