@@ -71,8 +71,7 @@ Ideal for:
 - Modern dark-themed Web3 UI  
 - NFT collection and card showcase  
 - Creator and marketplace sections  
-- Smooth hover effects and transitions  
-- Clean typography and spacing  
+- Smooth hover effects and transitions 
 - Easy customization for different NFT projects  
 
 ---
